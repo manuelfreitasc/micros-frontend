@@ -10,8 +10,10 @@ instala as depndencias
 
 
 
-entre de cada pasta dos projetos executa:
-###
+entre em cada pasta dos projetos e executa:
+##
 yarn ou npm install
+#
 &&
+#
 yarn start ou npm start
