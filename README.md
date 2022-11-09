@@ -1,8 +1,7 @@
 # micros-frontend
-neste projeto comecei a  micros frontend
+Este repositorio mostra aplicação de  micros frontend.
 
-
-# este minimos projectos mostram como é a comunicação entre defentes tipos de 
+<h2>este minimos projectos mostram como é a comunicação entre defentes tipos de</h2>
 
 
 Clone o repositorio
