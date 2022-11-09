@@ -11,6 +11,7 @@ instala as depndencias
 
 
 entre de cada pasta dos projetos executa:
+###
 yarn ou npm install
 &&
 yarn start ou npm start
